@@ -1,0 +1,62 @@
+@import url('https://fonts.google.com/specimen/Quicksand');
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	background-color: #E2E8F3;
+}
+
+.test {
+	background-color: #2668A6;
+	color: #FFFFFF;
+	width: 750px;
+	height: 90;
+	border-radius: 15px 15px;
+}
+
+.qNumber {
+	color: #FFFEFE;
+	background-color: #10599D;
+	width: 350px;
+	border-radius: 15px 15px;
+	margin: 0 auto;
+}
+
+.question {
+	color: #FFFEFE;
+	background-color: #1F4A71;
+	width: 700px;
+	border-radius: 15px 15px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.form {
+	width: 700px;
+	border-radius: 15px 15px;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.all{
+	background-color: #9AB8D6;
+	width: 750px;
+	border-radius: 15px 15px;
+	align-items: flex-end;
+}
+button{
+	border-radius: 15px 15px;
+	width: 150px;
+	height: 40px;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #4E83B6;
+	border: #FFFEFE;
+	color: #FFF;
+	font-size: 20px;
+}
